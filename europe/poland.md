@@ -9,3 +9,5 @@ Yggdrasil configuration file to peer with these nodes.
   * `quic://145.239.92.251:51812?key=63190e3dfc084ca063169a607b1786b4829193ebc8623ac0abdfd6608cd8ee6a`
   * `tls://145.239.92.251:51811?key=63190e3dfc084ca063169a607b1786b4829193ebc8623ac0abdfd6608cd8ee6a`
   * `tcp://145.239.92.251:51813?key=63190e3dfc084ca063169a607b1786b4829193ebc8623ac0abdfd6608cd8ee6a`
+* Katowice, 4dc, 10Gbps, operated by [kleku](https://t.me/kleku)
+  * `tcp://ygg.dg-net.pl:2222`
